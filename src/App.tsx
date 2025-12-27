@@ -65,7 +65,7 @@ function App() {
               fontWeight: "400",
               fontStyle: "normal",
               fontSize: "24px",
-              paddingBottom: "50px",
+              paddingBottom: "100px",
             }}
           >
             &copy; 2025 フルサーワ裏通信

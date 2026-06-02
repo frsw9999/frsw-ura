@@ -43,7 +43,7 @@ function App() {
           }}
         >
           <div className="logo" style={{ marginLeft: "20px" }}>
-            フルサーワ裏通信
+            月面時代
           </div>
           <Link to="/" style={{ marginRight: "20px" }}>
             <img
@@ -68,7 +68,7 @@ function App() {
               paddingBottom: "100px",
             }}
           >
-            &copy; 2025 フルサーワ裏通信
+            &copy; 2025 月面時代
           </div>
         </footer>
       </div>
